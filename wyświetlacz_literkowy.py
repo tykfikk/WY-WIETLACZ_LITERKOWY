@@ -45,9 +45,6 @@ while wyswietlanie:
 
     wyswieltanie_liter()
 
-    # litera = 'B'
-    # with open("zapisane_litery.txt", "a") as myfile:
-    #     myfile.write(litera + ', ' + str(time.time()) + '\n')
 
 
 pygame.quit()
