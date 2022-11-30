@@ -1,8 +1,7 @@
 import pygame
 import sys
 import time
-import os
-from pygame.locals import (K_ESCAPE, QUIT, KEYDOWN)
+
 
 pygame.init()
 
@@ -44,7 +43,6 @@ while wyswietlanie:
             wyswietlanie = False
 
     wyswieltanie_liter()
-
 
 
 pygame.quit()
